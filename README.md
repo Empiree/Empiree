@@ -1,22 +1,22 @@
 ## **Hi there, I'm Oleg Dubovoi!** 👋
 
 
-I have been programming since I was 15 y.o. (now 21) and I
-have 2.5 years commercial work experience.
+I have been programming since I was 15 y.o. (now 22) and I
+have 3.5 years commercial work experience.
 My main goal its growth to highly qualified specialist
 and have a broad outlook in different areas of programming (T-shaped)
 
-**Position:** Middle .NET Engineer
+**Position:** Middle Full-stack Engineer (.NET)
 
-- **Language:** C#, Java / Kotlin, TypeScript
-- **Database:** MSSQL, SQLite, Entity Framework Core
+- **Language:** C#, TypeScript
+- **Web:** ASP .NET Core, Angular2 / React.js
+- **Database:** MSSQL, SQLite, Entity Framework Core, Redis
 - **Desktop:** WPF, Avalonia, WinForms
-- **Web:** ASP Core, Web API
 - **Deployment:** Docker
 - **Communication:** RabbitMQ, gRPC, HttpClient
-- **Libraries:** HangFire, MediatR, Automapper, FluentValidation, IdentityServer4, xUnit
-- **Cache:** Redis
-- **Patterns:** CQRS, MVC, MVVM
+- **Libraries:** HangFire, MediatR, Automapper, FluentValidation, IdentityServer4, xUnit,
+Polly, Refit, Serilog, Ocelot
+- **Patterns:** CQRS, Event Sourcing, MVC, MVVM
 - **Design Principles:** SOLID, DDD
 - **Other:** HTML, CSS, Git, Jira, dotMemory, dotTrace
 
