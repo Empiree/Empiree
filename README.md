@@ -1,10 +1,7 @@
 ## **Hi there, I'm Oleg Dubovoi!** 👋
 
 
-I have been programming since I was 15 y.o. (now 22) and I
-have 3.5 years commercial work experience.
-My main goal its growth to highly qualified specialist
-and have a broad outlook in different areas of programming (T-shaped)
+Experienced .NET developer with a deep understanding of OOP approaches and functional programming. I have been programming for about 7 years and have commercial experience for 3.5 years. Actively follows SOLID principles to optimize support time and reduce product complexity. My main goal its growth to highly qualified specialist and have a broad outlook in different areas of programming (T-shaped)
 
 **Position:** Middle Full-stack Engineer (.NET)
 
