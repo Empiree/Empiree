@@ -3,8 +3,6 @@
 
 Experienced .NET developer with a deep understanding of OOP approaches and functional programming. I have been programming for about 7 years and have commercial experience for 4 years. Actively follows SOLID principles to optimize support time and reduce product complexity. My main goal its growth to highly qualified specialist and have a broad outlook in different areas of programming (T-shaped). I'm inspired by companies like Microsoft and JetBrains.
 
-**Position:** Strong Middle Full-stack Engineer (.NET)
-
 - **Language:** C#, TypeScript/JavaScript
 - **Web:** ASP.NET Core, Angular2+
 - **Database:** Microsoft SQL Server, MongoDB, Entity Framework Core, Redis
