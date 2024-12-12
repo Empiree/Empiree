@@ -4,7 +4,7 @@ I'm a passionate software engineer with over 5 years of experience in .NET devel
 
 ### 🌟 Career Highlights
 - **Forensic Search Innovation**: Developed a first-in-the-industry search algorithm for the *Atola Insight Forensic*, a professional tool for data recovery and forensic analysis. This feature is now instrumental for law enforcement agencies globally, supporting the critical task of evidence verification.
-- **Open-Source Creator**: Built and published **DeftSharp.Windows.Input**, a .NET library for keyboard and mouse control in Windows, achieving over 1.8k downloads on NuGet with contributions from 10 developers on GitHub.
+- **Open-Source Creator**: Built and published **DeftSharp.Windows.Input**, a .NET library for keyboard and mouse control in Windows, achieving over 2k downloads on NuGet with contributions from 10 developers on GitHub.
 - **AI-Powered Startup**: Designed and integrated an intelligent parking solution, which was acquired by an Estonian company. This project combined computer vision and OCR technologies to streamline parking operations, showcasing my expertise in applied AI.
 - **Content Creator**: Active in the developer community, I write about industry trends, software development techniques, and best practices on platforms like Dev.to, Reddit, and LinkedIn.
 
