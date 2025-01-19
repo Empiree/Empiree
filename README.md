@@ -2,7 +2,7 @@
 
 I'm a passionate software engineer with over 5 years of experience in .NET development, specializing in building robust back-end and full-stack solutions for complex, high-stakes projects.
 
-**My Tech Articles on Dev.to:**
+**💡My Tech Articles on Dev.to:**
 
 - [My Journey in Open-Source Library Development](https://dev.to/empiree/my-journey-in-open-source-library-development-375g)
 - [Why You Should Learn Go in 2025](https://dev.to/empiree/why-you-should-learn-go-in-2025-308l)
