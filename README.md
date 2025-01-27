@@ -17,7 +17,6 @@ I'm a passionate software engineer with over 5 years of experience in .NET devel
 **🌟Open-Source Projects:**
 
 - [DeftSharp.Windows.Input](https://github.com/Empiree/DeftSharp.Windows.Input) - .NET library designed for handling native keyboard and mouse events in Windows OS. 
-- [Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's. 
 
 If you're interested in discussing software engineering, challenging projects, or open-source collaboration, feel free to connect!
 
