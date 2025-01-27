@@ -4,7 +4,7 @@ I'm a passionate software engineer with over 5 years of experience in .NET devel
 
 **💡My Tech Articles:**
 
-- [My Journey in Open-Source Library Development](https://dev.to/empiree/my-journey-in-open-source-library-development-375g) - My story about DeftSharp library development.
+- [My Journey in Open-Source Library Development](https://dev.to/empiree/my-journey-in-open-source-library-development-375g) - The story of DeftSharp library development.
 - [How to Become an AI Developer in 2025](https://dev.to/empiree/how-to-become-an-ai-developer-in-2025-full-guide-resources-a0p) - The best weekly article in the Python category on the Dev.to.
 - [How to Become a Successful Software Developer](https://dev.to/empiree/how-to-become-a-successful-software-developer-in-2024-2f07) - Tips for Junior-Senior developers who want to become professionals.
 - [IT Job Market in 2025: Trends, Roles, and Opportunities](https://dev.to/empiree/it-job-market-in-2025-trends-roles-and-opportunities-bf) - My vision of the IT job market in 2025.
