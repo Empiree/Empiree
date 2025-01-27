@@ -14,6 +14,11 @@ I'm a passionate software engineer with over 5 years of experience in .NET devel
 - [Why You Should Learn Kotlin](https://dev.to/empiree/why-you-should-learn-kotlin-in-2025-47g0)
 - [Why You Should Learn C# / .NET](https://dev.to/empiree/why-you-should-learn-cnet-in-2025-3l6f) 
 
+**🌟Open-Source Projects:**
+
+- [DeftSharp.Windows.Input](https://github.com/Empiree/DeftSharp.Windows.Input) - .NET library designed for handling native keyboard and mouse events in Windows OS. 
+- [Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's. 
+
 If you're interested in discussing software engineering, challenging projects, or open-source collaboration, feel free to connect!
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/empiree)
