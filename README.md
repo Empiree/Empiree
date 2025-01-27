@@ -10,9 +10,9 @@ I'm a passionate software engineer with over 5 years of experience in .NET devel
 - [IT Job Market in 2025: Trends, Roles, and Opportunities](https://dev.to/empiree/it-job-market-in-2025-trends-roles-and-opportunities-bf) - My vision of the IT job market in 2025.
 
 **⭐For Beginners:**
-- [Why You Should Learn Go in 2025](https://dev.to/empiree/why-you-should-learn-go-in-2025-308l)
-- [Why You Should Learn Kotlin in 2025](https://dev.to/empiree/why-you-should-learn-kotlin-in-2025-47g0)
-- [Why You Should Learn C# / .NET in 2025](https://dev.to/empiree/why-you-should-learn-cnet-in-2025-3l6f) 
+- [Why You Should Learn Go](https://dev.to/empiree/why-you-should-learn-go-in-2025-308l)
+- [Why You Should Learn Kotlin](https://dev.to/empiree/why-you-should-learn-kotlin-in-2025-47g0)
+- [Why You Should Learn C# / .NET](https://dev.to/empiree/why-you-should-learn-cnet-in-2025-3l6f) 
 
 If you're interested in discussing software engineering, challenging projects, or open-source collaboration, feel free to connect!
 
