@@ -20,4 +20,6 @@ I'm a passionate software engineer with over 5 years of experience in .NET devel
 
 If you're interested in discussing software engineering, challenging projects, or open-source collaboration, feel free to connect!
 
-[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/empiree)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&)](https://www.linkedin.com/in/empiree)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Read%20Now-purple?style=for-the-badge&logo=dev.to)](https://dev.to/empiree)
+[![HackerNoon](https://img.shields.io/badge/HackerNoon-Articles-4CAF50?style=for-the-badge&logo=hackernoon&logoColor=black)](https://hackernoon.com/u/empiree361)
