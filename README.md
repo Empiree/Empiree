@@ -1,7 +1,3 @@
-## Software Engineer | Full-Stack Developer | Open-Source Contributor
-
-I'm a passionate software engineer with over 5 years of experience in .NET development, specializing in building robust back-end and full-stack solutions for complex, high-stakes projects.
-
 **💡My Tech Articles:**
 
 - [My Journey in Open-Source Library Development](https://dev.to/empiree/my-journey-in-open-source-library-development-375g) - The story of DeftSharp library development.
