@@ -13,7 +13,7 @@
 **🌟Open-Source Projects:**
 
 - [DeftSharp.Windows.Input](https://github.com/Empiree/DeftSharp.Windows.Input) - .NET library designed for handling native keyboard and mouse events in Windows OS. 
-- [Coming soon](https://github.com/Empiree) - In active development, release in **April 2025** ❗
+- [Coming soon](https://github.com/Empiree) - In active development, release in **May 2025** ❗
 
 If you're interested in discussing software engineering, challenging projects, or open-source collaboration, feel free to connect!
 
