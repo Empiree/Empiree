@@ -1,14 +1,10 @@
 **💡My Tech Articles:**
 
+- [The Story Behind MultiDrive](https://dev.to/empiree/the-story-behind-multidrive-eo8) - This is the story of how we built **MultiDrive** — a high-speed disk management toolkit for Windows.
 - [My Journey in Open-Source Library Development](https://dev.to/empiree/my-journey-in-open-source-library-development-375g) - The story of DeftSharp library development.
 - [How to Become an AI Developer in 2025](https://dev.to/empiree/how-to-become-an-ai-developer-in-2025-full-guide-resources-a0p) - The best weekly article in the Python category on the Dev.to <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="15" height="15" alt="Python" />
 - [How to Become a Successful Software Developer](https://dev.to/empiree/how-to-become-a-successful-software-developer-in-2024-2f07) - Tips for Junior-Senior developers who want to become professionals.
 - [IT Job Market in 2025: Trends, Roles, and Opportunities](https://dev.to/empiree/it-job-market-in-2025-trends-roles-and-opportunities-bf) - My vision of the IT job market in 2025.
-
-**⭐For Beginners:**
-- [Why You Should Learn Go](https://dev.to/empiree/why-you-should-learn-go-in-2025-308l)
-- [Why You Should Learn Kotlin](https://dev.to/empiree/why-you-should-learn-kotlin-in-2025-47g0)
-- [Why You Should Learn C# / .NET](https://dev.to/empiree/why-you-should-learn-cnet-in-2025-3l6f) 
 
 **🌟Open-Source Projects:**
 
