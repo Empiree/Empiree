@@ -14,5 +14,5 @@ If you're interested in discussing software engineering, challenging projects, o
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&)](https://www.linkedin.com/in/empiree)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Read%20Now-purple?style=for-the-badge&logo=dev.to)](https://dev.to/empiree)
-[![Medium](https://img.shields.io/badge/Medium-Insights-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@empiree)
+[![Medium](https://img.shields.io/badge/Medium-Insights-red?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@empiree)
 [![HackerNoon](https://img.shields.io/badge/HackerNoon-Articles-4CAF50?style=for-the-badge&logoColor=black)](https://hackernoon.com/u/empiree361)
