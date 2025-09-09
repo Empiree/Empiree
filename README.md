@@ -10,7 +10,7 @@
 
 - [DeftSharp.Windows.Input](https://github.com/Empiree/DeftSharp.Windows.Input) - .NET library designed for handling native keyboard and mouse events in Windows OS. 
 
-If you're interested in discussing software engineering, challenging projects, or open-source collaboration, feel free to connect!
+If you're interested in discussing software engineering, challenging projects, or open-source collaboration, feel free to connect! :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&)](https://www.linkedin.com/in/empiree)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Read%20Now-purple?style=for-the-badge&logo=dev.to)](https://dev.to/empiree)
