@@ -11,6 +11,7 @@
 
 **Communities:**
 - [Austria Tech Community](https://www.linkedin.com/groups/16428015/) - An English-speaking community for IT professionals in Austria, created to connect tech talent, share knowledge, and build meaningful professional relationships.
+- [Austria AI Community](https://www.linkedin.com/groups/17687012/) - Our mission is to build a strong, open, and collaborative AI ecosystem in Austria by bringing together technical expertise, business vision, and creative innovation. 
 
 **Open-Source Projects:**
 - [DeftSharp.Windows.Input](https://github.com/Empiree/DeftSharp.Windows.Input) - .NET library designed for handling native keyboard and mouse events in Windows OS. 
