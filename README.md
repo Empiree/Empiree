@@ -7,10 +7,8 @@
 - [How to Become a Successful Software Developer](https://dev.to/empiree/how-to-become-a-successful-software-developer-in-2024-2f07) - Tips for Junior-Senior developers who want to become professionals.
 - [AI in Software Development: Boosting or Slowing Your Productivity](https://medium.com/@empiree/ai-in-software-development-boosting-or-slowing-your-productivity-7a495ff48f5a) - How effective AI really is in software development, based on the latest METR study, the 2025 StackOverflow Survey, and my own experience.
 
-
 **Products:**
 - [MultiDrive](https://multidrive.io/) - A high-speed disk management toolkit for Windows designed for everyone from home users to IT professionals. Back up, clone, erase and restore drives with ease. It combines advanced functionality with a clean, intuitive interface and includes free CLI support. No ads. No pop-ups. No hidden fees. Just powerful features you can count on. Support us on [ProductHunt](https://www.producthunt.com/products/multidrive)!
-- [Watchlist for LinkedIn](https://addons.mozilla.org/en-US/firefox/addon/watchlist-for-linkedin) - Save your most-important LinkedIn profiles to a personal watchlist and revisit them in one click (Firefox extension). 
 
 **Communities:**
 - [Austria Tech Community](https://www.linkedin.com/groups/16428015/) - An English-speaking community for IT professionals in Austria, created to connect tech talent, share knowledge, and build meaningful professional relationships.
@@ -24,3 +22,4 @@ If you're interested in discussing software engineering, challenging projects, o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&)](https://www.linkedin.com/in/empiree)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Read%20Now-purple?style=for-the-badge&logo=dev.to)](https://dev.to/empiree)
 [![Medium](https://img.shields.io/badge/Medium-Articles-4CAF50?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@empiree)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/empiree)
