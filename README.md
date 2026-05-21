@@ -9,6 +9,7 @@
 
 **Products:**
 - [MultiDrive](https://multidrive.io/) - A high-speed disk management toolkit for Windows designed for everyone from home users to IT professionals. Back up, clone, erase and restore drives with ease. It combines advanced functionality with a clean, intuitive interface and includes free CLI support. No ads. No pop-ups. No hidden fees. Just powerful features you can count on. Support us on [ProductHunt](https://www.producthunt.com/products/multidrive)!
+- [Brief](https://addons.mozilla.org/en-US/firefox/addon/brief-ai) - Your AI analyst inside **Trade Republic**. Deep company research, live market data, recent news, competitor analysis, and cited sources — one click on any stock page.
 
 **Communities:**
 - [Austria Tech Community](https://www.linkedin.com/groups/16428015/) - An English-speaking community for IT professionals in Austria, created to connect tech talent, share knowledge, and build meaningful professional relationships.
