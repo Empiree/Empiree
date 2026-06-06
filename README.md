@@ -21,6 +21,5 @@
 If you're interested in discussing software engineering, challenging projects, or open-source collaboration, feel free to connect! :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&)](https://www.linkedin.com/in/empiree)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Read%20Now-purple?style=for-the-badge&logo=dev.to)](https://dev.to/empiree)
-[![Medium](https://img.shields.io/badge/Medium-Articles-4CAF50?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@empiree)
+[![My Blog](https://img.shields.io/badge/My%20Blog-Read%20Now-purple?style=for-the-badge)](https://olegdubovoi.com/)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/empiree)
