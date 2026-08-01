@@ -1,5 +1,6 @@
 **Technical Articles:**
 
+- [LSP for AI Coding Agents: The Protocol Your Agent Isn't Using Yet](https://olegdubovoi.com/publications/lsp-for-ai-coding-agents-the-protocol-your-agent-isnt-using-yet/) - Coding agents can analyze your codebase with around 30% fewer tokens. Instead of searching your project as plain text, they get real code intelligence from a language server: exact answers, faster, cheaper, nothing missed.
 - [Will AI Replace Software Developers?](https://olegdubovoi.com/publications/will-ai-replace-software-developers/) - We can see how LLMs handle programming tasks very well and write code at a middle to senior level. This makes many software developers concerned about their future.
 - [The Story Behind MultiDrive](https://olegdubovoi.com/publications/the-story-behind-multidrive/) - The story of how we built **MultiDrive** — a high-speed disk management toolkit for Windows.
 - [My Journey in Open-Source Library Development](https://olegdubovoi.com/publications/my-journey-in-open-source-library-development/) - The story of DeftSharp library development.
@@ -9,7 +10,6 @@
 
 **Products:**
 - [MultiDrive](https://multidrive.io/) - A high-speed disk management toolkit for Windows designed for everyone from home users to IT professionals. Back up, clone, erase and restore drives with ease. It combines advanced functionality with a clean, intuitive interface and includes free CLI support. No ads. No pop-ups. No hidden fees. Just powerful features you can count on. Support us on [ProductHunt](https://www.producthunt.com/products/multidrive)!
-- [Brief](https://addons.mozilla.org/en-US/firefox/addon/brief-ai) - Your AI analyst inside **Trade Republic**. Deep company research, live market data, recent news, competitor analysis, and cited sources — one click on any stock page.
 
 **Communities:**
 - [Austria Tech Community](https://www.linkedin.com/groups/16428015/) - An English-speaking community for IT professionals in Austria, created to connect tech talent, share knowledge, and build meaningful professional relationships.
